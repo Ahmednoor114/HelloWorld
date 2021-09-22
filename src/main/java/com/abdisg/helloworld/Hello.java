@@ -13,7 +13,8 @@ package com.abdisg.helloworld;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.print("Hellow, Ahmednoor!");
+        System.out.print("Hellow, World!");
+        System.out.print("My name is Ahmednoor");
     }
     
 }
